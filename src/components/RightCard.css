@@ -1,0 +1,31 @@
+.rightcard{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: left; */
+    margin-left: 2rem;
+}
+button{
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.heading{
+    margin-bottom: 0px;
+}
+.product{
+    font-weight: 100;
+    letter-spacing: 10px;
+    margin-bottom: 0px;
+}
+.text{
+    width: 80%;
+}
+.price{
+    color: rgb(61, 109, 49);
+}
+button{
+    background-color: rgb(61, 109, 49);
+    color: white;
+    font-weight: 400;
+    border: none;
+}
